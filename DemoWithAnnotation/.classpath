@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-11">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/MySQL/Connector J 8.0/mysql-connector-java-8.0.21.jar"/>
+	<classpathentry kind="lib" path="C:/Users/dbanerjee8/Downloads/jars/jar_files/dom4j-2.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/dbanerjee8/Downloads/jars/newHiberLib/newHiberLib/hibernate-annotations-3.4.0.GA/hibernate-annotations.jar"/>
+	<classpathentry kind="lib" path="C:/Users/dbanerjee8/Downloads/jars/newHiberLib/newHiberLib/hibernate-annotations-3.4.0.GA/lib/ejb3-persistence.jar"/>
+	<classpathentry kind="lib" path="C:/Users/dbanerjee8/Downloads/jars/newHiberLib/newHiberLib/hibernate-annotations-3.4.0.GA/lib/hibernate-commons-annotations.jar"/>
+	<classpathentry kind="lib" path="C:/Users/dbanerjee8/Downloads/jars/newHiberLib/newHiberLib/hibernate-annotations-3.4.0.GA/lib/hibernate-core.jar"/>
+	<classpathentry kind="lib" path="C:/Users/dbanerjee8/Downloads/jars/newHiberLib/newHiberLib/hibernate-annotations-3.4.0.GA/lib/test/antlr.jar"/>
+	<classpathentry kind="lib" path="C:/Users/dbanerjee8/Downloads/jars/newHiberLib/newHiberLib/hibernate-annotations-3.4.0.GA/lib/test/asm.jar"/>
+	<classpathentry kind="lib" path="C:/Users/dbanerjee8/Downloads/jars/newHiberLib/newHiberLib/hibernate-annotations-3.4.0.GA/lib/test/asm-attrs.jar"/>
+	<classpathentry kind="lib" path="C:/Users/dbanerjee8/Downloads/jars/newHiberLib/newHiberLib/hibernate-annotations-3.4.0.GA/lib/test/commons-collections.jar"/>
+	<classpathentry kind="lib" path="C:/Users/dbanerjee8/Downloads/jars/newHiberLib/newHiberLib/hibernate-annotations-3.4.0.GA/lib/test/javassist.jar"/>
+	<classpathentry kind="lib" path="C:/Users/dbanerjee8/Downloads/jars/newHiberLib/newHiberLib/hibernate-annotations-3.4.0.GA/lib/test/jta.jar"/>
+	<classpathentry kind="lib" path="C:/Users/dbanerjee8/Downloads/jars/newHiberLib/newHiberLib/hibernate-annotations-3.4.0.GA/lib/test/junit.jar"/>
+	<classpathentry kind="lib" path="C:/Users/dbanerjee8/Downloads/jars/newHiberLib/newHiberLib/hibernate-annotations-3.4.0.GA/lib/test/log4j.jar"/>
+	<classpathentry kind="lib" path="C:/Users/dbanerjee8/Downloads/jars/newHiberLib/newHiberLib/hibernate-annotations-3.4.0.GA/lib/build/ant-contrib-1.0b2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/dbanerjee8/Downloads/jars/newHiberLib/newHiberLib/hibernate-annotations-3.4.0.GA/lib/build/ant-junit-1.6.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/dbanerjee8/Downloads/jars/newHiberLib/newHiberLib/hibernate-annotations-3.4.0.GA/lib/build/junit-3.8.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/dbanerjee8/Downloads/slf4j-log4j12-1.7.12.jar"/>
+	<classpathentry kind="lib" path="C:/Users/dbanerjee8/Downloads/slf4j-api-1.7.12.jar"/>
+	<classpathentry kind="lib" path="C:/Users/dbanerjee8/Downloads/jars/hibernate/hibernate/ant-antlr-1.6.2.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
